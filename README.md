@@ -45,7 +45,7 @@ We would like to acknowledge the following contributor for their valuable contri
 Take a glimpse into the captivating world of Natours Tour Static Website:
 
 <p align="center">
-  <a href="http://natours-tour.surge.sh/">
+  <a href="http://purchase-home.surge.sh/">
     <img width='100%' src="screen-shot.png"/>
   </a>
 </p>
