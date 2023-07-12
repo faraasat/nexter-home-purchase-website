@@ -7,7 +7,7 @@
 
 ### ⚒ Project Demo:
 
-Experience the project in action by visiting our live demo: [Nexter Home Purchasing Website UI Demo](http://purchase-home.surge.sh/)
+Experience the project in action by visiting our live demo: [Nexter Home Purchasing Website UI Demo](https://purchase-home.surge.sh/)
 
 ---
 
@@ -17,6 +17,16 @@ Nexter is a home purchasing website with a focus on modern design and user exper
 
 Built entirely with HTML, CSS, and SCSS, Nexter's elegant and intuitive interface provides a captivating experience for users, ensuring they can easily navigate. From high-resolution property images to detailed descriptions, Nexter empowers users to make informed decisions in their home-buying journey.
 
+### ⚙ Dockerized Execution:
+
+To run project using Docker run the following commands:
+
+```bash
+  docker build -t <tag-name> .
+
+  docker run -p 8080:8080 <tag-name>
+```
+
 ---
 
 ### 🤹‍♂️ Skills Utilized:
@@ -25,6 +35,8 @@ Built entirely with HTML, CSS, and SCSS, Nexter's elegant and intuitive interfac
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=Html5)&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;&nbsp;&nbsp;&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SASS)&nbsp;&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
