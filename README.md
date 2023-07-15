@@ -54,7 +54,7 @@ We would like to acknowledge the following contributor for their valuable contri
 
 ### 📷 Project UI:
 
-Take a glimpse into the captivating world of Natours Tour Static Website:
+Take a glimpse into the Project:
 
 <p align="center">
   <a href="http://purchase-home.surge.sh/">
